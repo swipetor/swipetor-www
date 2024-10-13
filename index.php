@@ -17,7 +17,7 @@ require_once 'layout/header.php';
 
 
 <strong>Goal</strong>
-— Providing a video feed solution, allowing creators to independently showcase their content on their brand's web
+— Provide a free video feed solution, allowing creators to independently showcase their content on their brand's web
 address,
 standing out from the influx of mediocre and AI-generated content on social media.
 
