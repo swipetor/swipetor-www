@@ -11,15 +11,11 @@ require_once 'layout/header.php';
 ?>
 
 <h2><?= $ssg->config->site_top_about_line1 ?></h2>
-<h3>
-    <?= $ssg->config->site_top_about_line2 ?>
-</h3>
 
 
 <strong>Goal</strong>
-— Provide a free video feed solution, allowing creators to independently showcase their content on their brand's web
-address,
-standing out from the influx of mediocre and AI-generated content on social media.
+— Provide an open-source, free video feed solution to showcase independent digital content on the web, distinguishing it
+from the influx of mediocre and AI-generated content on social media.
 
 <br />
 <br />
