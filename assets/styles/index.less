@@ -1,28 +1,31 @@
 .homeLinksDiv {
   display: flex;
-  align-items: center;
-  text-align: center;
-  justify-content: center;
+  text-align: left;
   text-decoration: none;
 
   @media @mobile {
     flex-direction: column;
-    span.sep {
-      display: none;
+    > div:last-child {
+      margin-top: 10px;
+    }
+    div {
+      text-align: center;
     }
   }
 
-  a {
-    display: flex;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-    margin-left: 10px;
-    margin-right: 10px;
-    font-size: 18px;
+  div {
+    flex: 1;
 
-    &:hover {
-      text-decoration: none;
+    a {
+      display: inline-flex;
+      align-items: center;
+      margin-left: 10px;
+      margin-right: 10px;
+      font-size: 18px;
+
+      &:hover {
+        text-decoration: none;
+      }
     }
   }
 
