@@ -44,7 +44,7 @@ $processed_meta = $ssg->layout->GetProcessedPageMeta();
         <?php
     }
     ?>
-    <link rel="icon" type="image/jpeg" href="/assets/images/favicon-96.jpg">
+    <link rel="icon" type="image/jpeg" href="/assets/images/favicon-96.png">
     <script>
         <?= $ssg->layout->get_email_parts_in_js() ?>
     </script>
