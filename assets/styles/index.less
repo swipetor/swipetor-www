@@ -1,0 +1,32 @@
+.homeLinksDiv {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  text-decoration: none;
+
+  @media @mobile {
+    flex-direction: column;
+    span.sep {
+      display: none;
+    }
+  }
+
+  a {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  img {
+    margin-right: 10px;
+  }
+}
