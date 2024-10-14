@@ -2,10 +2,6 @@
 
 <?php global $config; ?>
 
-<script>
-    setBodyWrapperMarginTop();
-</script>
-
 <!-- Matomo -->
 <script>
     var _paq = window._paq = window._paq || [];
