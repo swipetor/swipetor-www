@@ -12,7 +12,6 @@ require_once 'layout/header.php';
 
 <h2><?= $ssg->config->site_top_about_line1 ?></h2>
 
-
 <strong>Goal</strong>
 — Provide a free and open-source web-based video swipe platform to distinguish independent digital content
 from the influx of mediocre, AI-generated and ad-filled spaces on social media & social broadcasting.
@@ -24,7 +23,10 @@ from the influx of mediocre, AI-generated and ad-filled spaces on social media &
 <div class="homeLinksDiv">
     <?php if (isset($ssg->config->github_url) && strlen($ssg->config->github_url) > 0) { ?>
         <div>
-            <a href="https://demo.swipetor.com" target="_blank">demo.swipetor.com</a> (nicer on phone)
+            <a href="https://demo.swipetor.com" target="_blank" class="demoLink">
+                <img src="/assets/images/site-icon.png" alt="Swipetor icon" />
+                demo.swipetor.com</a>
+            (better on phone)
         </div>
         <div>
             <a href="<?= $ssg->config->github_url ?>" target="_blank" rel="nofollow noreferrer" title="on GitHub"

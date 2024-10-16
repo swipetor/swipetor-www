@@ -55,4 +55,7 @@ $processed_meta = $ssg->layout->GetProcessedPageMeta();
 
     <div id="bodyWrapper">
 
-        <h1><?= $ssg->config->site_top_h1 ?></h1>
+        <h1>
+            <img src="/assets/images/site-icon.png" alt="Swipetor icon" />
+            <?= $ssg->config->site_top_h1 ?>
+        </h1>

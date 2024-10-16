@@ -15,6 +15,9 @@
 
   div {
     flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
     a {
       display: inline-flex;
@@ -22,6 +25,12 @@
       margin-left: 10px;
       margin-right: 10px;
       font-size: 18px;
+
+      img {
+        width: 28px;
+        height: 28px;
+        filter: grayscale(100%);
+      }
 
       &:hover {
         text-decoration: none;
