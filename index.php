@@ -26,7 +26,9 @@ from the influx of mediocre, AI-generated and ad-filled spaces on social media &
             <a href="https://demo.swipetor.com" target="_blank" class="demoLink">
                 <img src="/assets/images/site-icon.png" alt="Swipetor icon" />
                 demo.swipetor.com</a>
-            (better on phone)
+            <div>
+                (better on phone)
+            </div>
         </div>
         <div>
             <a href="<?= $ssg->config->github_url ?>" target="_blank" rel="nofollow noreferrer" title="on GitHub"
@@ -55,7 +57,7 @@ from the influx of mediocre, AI-generated and ad-filled spaces on social media &
     <li>Notifications for interactions</li>
 </ul>
 
-<p class="freeAndIndependentText">This is a free and open-source personal project, <u>independent of any company or
+<p class="freeAndIndependentText">This is a free and open-source project, <u>independent of any company or
         commercial
         interests</u>.</p>
 
