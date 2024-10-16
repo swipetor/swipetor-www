@@ -51,7 +51,6 @@ from the influx of mediocre and AI-generated content on social media and from so
     <li>Homescreen app icon for iPhone and Android</li>
     <li>Commenting</li>
     <li>Notifications for interactions</li>
-    <li>Possibility of cloud hosting with no setup - contact and check</li>
 </ul>
 
 <p class="freeAndIndependentText">This is a free and open-source personal project, <u>independent of any company or
