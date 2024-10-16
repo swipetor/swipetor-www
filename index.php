@@ -54,7 +54,8 @@ from the influx of mediocre and AI-generated content on social media and from so
     <li>Possibility of cloud hosting with no setup - contact and check</li>
 </ul>
 
-<p class="freeAndIndependentText">This is a free and open-source project, <u>independent of any company or commercial
+<p class="freeAndIndependentText">This is a free and open-source personal project, <u>independent of any company or
+        commercial
         interests</u>.</p>
 
 <p style="margin-top: 20px;">
