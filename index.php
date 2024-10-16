@@ -14,8 +14,8 @@ require_once 'layout/header.php';
 
 
 <strong>Goal</strong>
-— Provide a free and open-source video swipe feed solution running on web to distinguish independent digital content
-from the influx of mediocre and AI-generated content on social media and from social broadcasting.
+— Provide a free and open-source web-based video swipe platform to distinguish independent digital content
+from the influx of mediocre, AI-generated and ad-filled spaces on social media & social broadcasting.
 
 
 <br />
