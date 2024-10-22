@@ -23,7 +23,7 @@ from the influx of mediocre, AI-generated and ad-filled spaces on social media &
 <div class="homeLinksDiv">
     <?php if (isset($ssg->config->github_url) && strlen($ssg->config->github_url) > 0) { ?>
         <div>
-            <a href="https://demo.swipetor.com" target="_blank" class="demoLink">
+            <a href="https://demo.swipetor.com" class="demoLink">
                 <img src="/assets/images/site-icon.png" alt="Swipetor icon" />
                 demo.swipetor.com</a>
             <div>
