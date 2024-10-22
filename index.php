@@ -67,7 +67,7 @@ from the influx of mediocre, AI-generated and ad-filled spaces on social media &
 </p>
 
 <h2>Post Video Add/Edit panel</h2>
-<p>Sharing a screenshot of this panel as it is only for users with creator access.</p>
+<p>Below page requires creator access on the demo app, so sharing a screenshot of it.</p>
 
 <img src="/assets/images/home-screenshot-1.png" alt="" />
 
