@@ -66,6 +66,12 @@ from the influx of mediocre, AI-generated and ad-filled spaces on social media &
     <span class="email"></span>
 </p>
 
+<h2>Post Video Add/Edit panel</h2>
+<p>Sharing a screenshot of this panel as it is only for users with creator access.</p>
+
+<img src="/assets/images/home-screenshot-1.png" alt="" />
+
+
 <?php
 
 
