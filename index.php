@@ -64,9 +64,11 @@ from the influx of mediocre, AI-generated and ad-filled spaces on social media &
 <p style="margin-top: 20px;">
     <strong>Contact</strong> —
     <span class="email"></span>
+    |
+    <a href="https://www.atasasmaz.com" target="_blank">AtaSasmaz.com</a>
 </p>
 
-<h2>Post Video Add/Edit panel</h2>
+<h2>Post Video Add/Edit Panel ⬇️</h2>
 <p>Below page requires creator access on the demo app, so sharing a screenshot of it.</p>
 
 <img src="/assets/images/home-screenshot-1.png" alt="" />
